@@ -1,8 +1,0 @@
-com\ventas\principal\Config\SwaggerConfig.class
-com\ventas\principal\Controller\VentasController.class
-com\ventas\principal\Repository\VentasRepository.class
-com\ventas\principal\Model\Ventas.class
-com\ventas\principal\Service\VentasService.class
-com\ventas\principal\PrincipalApplication.class
-com\ventas\principal\Model\dto\VentasDto.class
-com\ventas\principal\Model\entity\VentasEntity.class
